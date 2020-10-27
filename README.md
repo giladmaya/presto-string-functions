@@ -1,1 +1,1 @@
-# presto-drop-prefix
+# presto-string-functions
